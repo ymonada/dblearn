@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XOQazl5eXTHJaOYDAyrJcy/3BZJ6nYFYaj4eYcJkL84=",
+  "Source": "dbt",
+  "BasePath": "_content/dbt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@dbt_HostAddress = http://localhost:5194
+
+GET {{dbt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
